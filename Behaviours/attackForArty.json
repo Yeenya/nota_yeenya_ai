@@ -1,0 +1,111 @@
+{
+	"additionalNodes": [],
+	"additionalParameters": {
+		"root": {
+			"height": 108,
+			"width": 240
+		}
+	},
+	"inputs": [ {
+		"command": "BETS_POSITION",
+		"name": "targetPosition"
+	} ],
+	"outputs": [],
+	"properties": {
+		"8rwxwsqpUoiX2LQWGB70ZNnexER51k1G": {
+			"height": 72,
+			"title": "waitUntil",
+			"width": 185,
+			"x": 539,
+			"y": 216
+		},
+		"9iAPh8j5OJcbuaRvZXg3bMdab6hScV2h": {
+			"height": 72,
+			"title": "wait",
+			"width": 131,
+			"x": 550,
+			"y": 24
+		},
+		"Vu6ZH5ZSHvFE8qo8dYqeHMnZwtwE339S": {
+			"height": 94,
+			"title": "store",
+			"width": 557,
+			"x": 530,
+			"y": -99
+		},
+		"a9BHB2q2Qclbyf07l0mZfIjRiLxMOMjQ": {
+			"height": 94,
+			"title": "store",
+			"width": 661,
+			"x": 532,
+			"y": 111
+		},
+		"jY77F5YpFmWmCFnh6DY50XHVZ1hzlqHy": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 299,
+			"y": -2
+		}
+	},
+	"roles": [ {
+		"categories": [],
+		"name": "Role 0"
+	} ],
+	"root": {
+		"children": [ {
+			"children": [],
+			"id": "Vu6ZH5ZSHvFE8qo8dYqeHMnZwtwE339S",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "x"
+			}, {
+				"name": "value",
+				"value": "Spring.GiveOrderToUnit(units[1], CMD.FIRE_STATE, {}, {})"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "9iAPh8j5OJcbuaRvZXg3bMdab6hScV2h",
+			"nodeType": "wait",
+			"parameters": [ {
+				"name": "time",
+				"value": 1
+			} ]
+		}, {
+			"children": [],
+			"id": "a9BHB2q2Qclbyf07l0mZfIjRiLxMOMjQ",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "x"
+			}, {
+				"name": "value",
+				"value": "Spring.GiveOrderToUnit(units[1], CMD.ATTACK, targetPosition:AsSpringVector(),{})"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "8rwxwsqpUoiX2LQWGB70ZNnexER51k1G",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "condition",
+				"value": "false"
+			}, {
+				"name": "scriptName",
+				"value": "waitUntil"
+			} ],
+			"scriptName": "waitUntil"
+		} ],
+		"id": "jY77F5YpFmWmCFnh6DY50XHVZ1hzlqHy",
+		"nodeType": "sequence",
+		"parameters": []
+	}
+}
