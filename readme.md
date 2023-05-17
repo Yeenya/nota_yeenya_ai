@@ -1,1 +1,1 @@
-Initial readme
+Personal repository of Jan Borecký for NOTA track of the HLAA subject on Gamedev Matfyz.
