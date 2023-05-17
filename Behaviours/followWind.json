@@ -1,0 +1,74 @@
+{
+	"additionalNodes": [],
+	"additionalParameters": {
+		"root": {
+			"height": 88,
+			"width": 180
+		}
+	},
+	"inputs": [],
+	"outputs": [],
+	"properties": {
+		"7Ek9yOPijLjobqj7IWBd7ZEaJz5VBmYf": {
+			"height": 90,
+			"title": "Common.relativeMove",
+			"width": 335,
+			"x": 531,
+			"y": -1
+		},
+		"Klexf5KAZnLH8SlKjspb1m2LDjoi9olD": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 257,
+			"y": 10
+		},
+		"shxBiVlCluDgzrDz5iDBxbxjCST6tlcu": {
+			"height": 94,
+			"title": "store",
+			"width": 331,
+			"x": 532,
+			"y": -109
+		}
+	},
+	"roles": [ {
+		"categories": [ "nota_yeenya_ai.commander" ],
+		"name": "commander"
+	} ],
+	"root": {
+		"children": [ {
+			"children": [],
+			"id": "shxBiVlCluDgzrDz5iDBxbxjCST6tlcu",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "windDir"
+			}, {
+				"name": "value",
+				"value": "nota_yeenya_ai.Wind()"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "7Ek9yOPijLjobqj7IWBd7ZEaJz5VBmYf",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "dist",
+				"value": "{x = windDir.x * 5, z = windDir.z * 5}"
+			}, {
+				"name": "fight",
+				"value": "false"
+			}, {
+				"name": "scriptName",
+				"value": "Common.relativeMove"
+			} ],
+			"scriptName": "Common.relativeMove"
+		} ],
+		"id": "Klexf5KAZnLH8SlKjspb1m2LDjoi9olD",
+		"nodeType": "sequence",
+		"parameters": []
+	}
+}
