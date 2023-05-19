@@ -1,0 +1,40 @@
+{
+	"additionalNodes": [],
+	"additionalParameters": {
+		"root": {
+			"height": 88,
+			"width": 180
+		}
+	},
+	"inputs": [],
+	"outputs": [],
+	"properties": {
+		"XUM3NZcj0xlH30Joq0GDC6XaJxQIdvgo": {
+			"height": 105,
+			"title": "store",
+			"width": 198,
+			"x": 313,
+			"y": -6
+		}
+	},
+	"roles": [ {
+		"categories": [],
+		"name": "Role 0"
+	} ],
+	"root": {
+		"children": [],
+		"id": "XUM3NZcj0xlH30Joq0GDC6XaJxQIdvgo",
+		"nodeType": "luaCommand",
+		"parameters": [ {
+			"name": "var",
+			"value": "info"
+		}, {
+			"name": "value",
+			"value": "core.MissionInfo()"
+		}, {
+			"name": "scriptName",
+			"value": "store"
+		} ],
+		"scriptName": "store"
+	}
+}
