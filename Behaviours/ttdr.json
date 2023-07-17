@@ -1,0 +1,1038 @@
+{
+	"additionalNodes": [],
+	"additionalParameters": {
+		"root": {
+			"height": 88,
+			"width": 180
+		}
+	},
+	"inputs": [],
+	"outputs": [],
+	"properties": {
+		"1cnkTW2YRAwg6HkhYCNJEMmqY3pDdSxA": {
+			"height": 94,
+			"title": "store",
+			"width": 330,
+			"x": 1339,
+			"y": 961
+		},
+		"2knjjjx5DoFrS3fDNmVHy8vODDMHWhCF": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 703,
+			"y": 634
+		},
+		"4ZGf66iKKYbHUSfwuSpIzwTgJc6aX9OM": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 413,
+			"y": 110
+		},
+		"5Q843C2NQnw59Otsf9AnA3xkIghzeB2z": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 702,
+			"y": 862
+		},
+		"5uzjQf0GKPzujsE3TFJhgkQuvo3eqGJo": {
+			"height": 93,
+			"title": "store",
+			"width": 194,
+			"x": 1550,
+			"y": 1878
+		},
+		"7YQwsFMqd3oGTBaHZaRJLsf9vXzND2fj": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 900,
+			"y": 634
+		},
+		"7fomZQu6MbdZA5lQiodlY4c2FC83vcsM": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 882,
+			"y": 2119
+		},
+		"8QDvL3yPo9bt2XbxKRYtpXYB3KW2vK2P": {
+			"height": 94,
+			"title": "store",
+			"width": 300,
+			"x": 417,
+			"y": -108
+		},
+		"Aohtvzka5mWTFUq4wx1F2BzWIbAHyAOm": {
+			"height": 95,
+			"title": "store",
+			"width": 208,
+			"x": 1555,
+			"y": 3152
+		},
+		"CJ24XhZwxiaPjb0qm8dLU1LF6wcgqw0e": {
+			"height": 94,
+			"title": "store",
+			"width": 330,
+			"x": 1337,
+			"y": 2223
+		},
+		"EsXuyEoTaxGGtZe0g9Jb4FONbNKIth1v": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 900,
+			"y": 862
+		},
+		"HI4rHcgPccqZZ7nbWW2qUWqrTYbBwsgq": {
+			"height": 94,
+			"title": "store",
+			"width": 328,
+			"x": 1337,
+			"y": 2107
+		},
+		"HmAd7jMze38MP2Vvnvv7GEEAp1GINSpC": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 1337,
+			"y": 1119
+		},
+		"Js3vmSgi9JjTDW9GrZODPRDghMi9Hr7z": {
+			"height": 94,
+			"title": "store",
+			"width": 548,
+			"x": 1000,
+			"y": 304
+		},
+		"LeMFCOccLCk95ynrEsm9lL2iyb0igaAI": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 220,
+			"y": 10
+		},
+		"LsSwolsH5rSBSnzxJ36g7ndX6P4H5EVl": {
+			"height": 94,
+			"title": "store",
+			"width": 364,
+			"x": 1000,
+			"y": 409
+		},
+		"MaRqE80EM8O8VowS97Pk9BfdnWF3jqBB": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 695,
+			"y": 2750
+		},
+		"NTJIjb42YUJs2qYqzIMUGYz39Jxs9T6Q": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 705,
+			"y": 1500
+		},
+		"NYJBJekdH8BV0BYZ4r3CvpyqGo1tWdov": {
+			"height": 94,
+			"title": "store",
+			"width": 483,
+			"x": 1339,
+			"y": 1364
+		},
+		"NmY1hKEw6mkMbJRaIDLtaRgCpjLt7Gu0": {
+			"height": 94,
+			"title": "store",
+			"width": 379,
+			"x": 415,
+			"y": -2
+		},
+		"OGPVjU3ZWoGSDigEA02HNNOomclTTwmm": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 873,
+			"y": 2750
+		},
+		"PSQuRFxhYWSXjePqzLee8QwlXvc9Dgqs": {
+			"height": 94,
+			"title": "store",
+			"width": 635,
+			"x": 1001,
+			"y": 101
+		},
+		"PSwJvHUFHJqI9j6sSyZE8CUSQxCtydmw": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 788,
+			"y": 113
+		},
+		"Pu7DqSeNjp6Fz6fwgtyLKELrp5JDgjZ8": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 1340,
+			"y": 2364
+		},
+		"RsqVPu0B7W7Zma3xMcq3HBteMiSiv6iz": {
+			"height": 172,
+			"title": "reference",
+			"width": 248,
+			"x": 1551,
+			"y": 1701
+		},
+		"T6chXnw2UPzUuB6xD6UWp78VyoYHhqgA": {
+			"height": 94,
+			"title": "store",
+			"width": 368,
+			"x": 1002,
+			"y": 511
+		},
+		"ToEJcjNA86rLlVzKAvxuC1uAXPG6keTW": {
+			"height": 94,
+			"title": "store",
+			"width": 330,
+			"x": 1339,
+			"y": 2842
+		},
+		"Ufotqo7eYtsnnn4nCOClqWXdNzC3rxU1": {
+			"height": 94,
+			"title": "store",
+			"width": 328,
+			"x": 1338,
+			"y": 2738
+		},
+		"Ve0qYaLZkiGGKa2mZFerH1FHO786f3bQ": {
+			"height": 172,
+			"title": "reference",
+			"width": 248,
+			"x": 1556,
+			"y": 2966
+		},
+		"VztTHtR3kSQmiji8a1lYTvSKPbwafzqm": {
+			"height": 94,
+			"title": "store",
+			"width": 367,
+			"x": 1001,
+			"y": 203
+		},
+		"XDH6ZMjCO4XpHnZM5NFW3uD2hJU2s0Lq": {
+			"height": 94,
+			"title": "store",
+			"width": 328,
+			"x": 1340,
+			"y": 850
+		},
+		"XVVnQVMMb94dj635b0jhECyDU9AlRoCZ": {
+			"height": 70,
+			"title": "selector",
+			"width": 131,
+			"x": 1081,
+			"y": 1736
+		},
+		"ZM0TeFXRFYxGpdda2au4X7sBxAsC894C": {
+			"height": 92,
+			"title": "store",
+			"width": 194,
+			"x": 1535,
+			"y": 1264
+		},
+		"aPYZVWkpuKrCWWU9bMpefu0WynssHNW0": {
+			"height": 172,
+			"title": "reference",
+			"width": 248,
+			"x": 1560,
+			"y": 2325
+		},
+		"cwnKXc092C5OCMCgOhhADfFlQnAietbw": {
+			"height": 94,
+			"title": "store",
+			"width": 483,
+			"x": 1340,
+			"y": 2610
+		},
+		"eob1qji6NHKzRcz27Zznvbr4vPJNCsrj": {
+			"height": 94,
+			"title": "store",
+			"width": 328,
+			"x": 1338,
+			"y": 1488
+		},
+		"h2icijDo1pNgNBY5PuL17gQRlhdX1v0c": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 1338,
+			"y": 3005
+		},
+		"hG09JqOabJEKBVUCj0nQnu0yaHMiAtfW": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 785,
+			"y": 316
+		},
+		"itWTuqPospqkHYFo2l9KOMVbjFuGu75q": {
+			"height": 70,
+			"title": "selector",
+			"width": 131,
+			"x": 1079,
+			"y": 2360
+		},
+		"kwQh5I4QEdV5GrGgxfzIWVBea2yzoh8O": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 890,
+			"y": 1500
+		},
+		"lCJ3VGeIv4dSoyBjYlcTe8zy2L8DdPyd": {
+			"height": 60,
+			"title": "repeat",
+			"width": 131,
+			"x": 700,
+			"y": 2119
+		},
+		"mpHHJM6DnacjySWnhn6VDQf9Ttl9c4Ud": {
+			"height": 93,
+			"title": "store",
+			"width": 194,
+			"x": 1562,
+			"y": 2511
+		},
+		"nWsfwh4wbaIZBoNvsC4euhrl4ncri4U4": {
+			"height": 172,
+			"title": "reference",
+			"width": 248,
+			"x": 1535,
+			"y": 1080
+		},
+		"oz2gbOQhOIYbAWDBd50cBci8HKAR6uFI": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 1076,
+			"y": 2115
+		},
+		"pW2Pm5lpQOQXlnnUL4c8vUnU3hFGonpY": {
+			"height": 94,
+			"title": "store",
+			"width": 202,
+			"x": 1079,
+			"y": 622
+		},
+		"qJzFAkqcjx75WY0ZZmZxNjFjp1NaZefR": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 1081,
+			"y": 858
+		},
+		"qYl8vlYoEB5kI3DkS1GsrqrIVJTiLUPF": {
+			"height": 94,
+			"title": "store",
+			"width": 483,
+			"x": 1338,
+			"y": 3263
+		},
+		"rpkXPBHZuUl1hnNbi1xFkwRpPA0CzSv9": {
+			"height": 60,
+			"title": "sequence",
+			"width": 143,
+			"x": 1336,
+			"y": 1740
+		},
+		"sz7uZce87FfWCQp9mJp7E2QvzHzVeW0x": {
+			"height": 75,
+			"title": "selector",
+			"width": 131,
+			"x": 1064,
+			"y": 3000
+		},
+		"t4o1Ob5e7BQbM4ODR9P68YDq5pYSj75p": {
+			"height": 68,
+			"title": "selector",
+			"width": 131,
+			"x": 1083,
+			"y": 1116
+		},
+		"wKfodNTIjHegFjgTSSEQMHiqZRQt4zlx": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 1061,
+			"y": 2746
+		},
+		"wXr8A9yHT6Qv2Uqt8BU0uMdSW3IDb14s": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 422,
+			"y": 630
+		},
+		"xoGnwREaGbqFTb8T7m900eUaXTqFrUQd": {
+			"height": 94,
+			"title": "store",
+			"width": 483,
+			"x": 1336,
+			"y": 1979
+		},
+		"z6LZ7xLEEKdXCtAkXC7o2VHIXXt0PzVX": {
+			"height": 94,
+			"title": "store",
+			"width": 330,
+			"x": 1337,
+			"y": 1588
+		},
+		"zXKXS5jndcIvik3UgYtCQQzjwyWk1eV4": {
+			"height": 54,
+			"title": "nota_common.manualMissionEnd",
+			"width": 296,
+			"x": 1506,
+			"y": 741
+		},
+		"zdXMjLCSQI2X45uH4JB7AxXtvAwrcKcn": {
+			"height": 90,
+			"title": "luaCondition",
+			"width": 339,
+			"x": 1080,
+			"y": 728
+		},
+		"zhBwZSP2b1BntiCxYVusdtdtA1m0WqRl": {
+			"height": 70,
+			"title": "parallel",
+			"width": 202,
+			"x": 1083,
+			"y": 1496
+		}
+	},
+	"roles": [ {
+		"categories": [],
+		"name": "Role 0"
+	} ],
+	"root": {
+		"children": [ {
+			"children": [],
+			"id": "8QDvL3yPo9bt2XbxKRYtpXYB3KW2vK2P",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "safeArea"
+			}, {
+				"name": "value",
+				"value": "core.MissionInfo().safeArea"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [],
+			"id": "NmY1hKEw6mkMbJRaIDLtaRgCpjLt7Gu0",
+			"nodeType": "luaCommand",
+			"parameters": [ {
+				"name": "var",
+				"value": "teamUnits"
+			}, {
+				"name": "value",
+				"value": "Spring.GetTeamUnits(Spring.GetMyTeamID())"
+			}, {
+				"name": "scriptName",
+				"value": "store"
+			} ],
+			"scriptName": "store"
+		}, {
+			"children": [ {
+				"children": [ {
+					"children": [],
+					"id": "PSQuRFxhYWSXjePqzLee8QwlXvc9Dgqs",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "var",
+						"value": "teamAtlases"
+					}, {
+						"name": "value",
+						"value": "core.FilterUnitsByCategory(teamUnits, Categories.nota_yeenya_ai.atlases)"
+					}, {
+						"name": "scriptName",
+						"value": "store"
+					} ],
+					"scriptName": "store"
+				}, {
+					"children": [],
+					"id": "VztTHtR3kSQmiji8a1lYTvSKPbwafzqm",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "var",
+						"value": "teamAtlases"
+					}, {
+						"name": "value",
+						"value": "nota_yeenya_ai.InitUnitsQuery(teamAtlases)"
+					}, {
+						"name": "scriptName",
+						"value": "store"
+					} ],
+					"scriptName": "store"
+				} ],
+				"id": "PSwJvHUFHJqI9j6sSyZE8CUSQxCtydmw",
+				"nodeType": "sequence",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [],
+					"id": "Js3vmSgi9JjTDW9GrZODPRDghMi9Hr7z",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "var",
+						"value": "unitsToSave"
+					}, {
+						"name": "value",
+						"value": "core.FilterUnitsByCategory(teamUnits, Categories.Common.groundUnits)"
+					}, {
+						"name": "scriptName",
+						"value": "store"
+					} ],
+					"scriptName": "store"
+				}, {
+					"children": [],
+					"id": "LsSwolsH5rSBSnzxJ36g7ndX6P4H5EVl",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "var",
+						"value": "unitsToSave"
+					}, {
+						"name": "value",
+						"value": "nota_yeenya_ai.FilterFarUnits(unitsToSave)"
+					}, {
+						"name": "scriptName",
+						"value": "store"
+					} ],
+					"scriptName": "store"
+				}, {
+					"children": [],
+					"id": "T6chXnw2UPzUuB6xD6UWp78VyoYHhqgA",
+					"nodeType": "luaCommand",
+					"parameters": [ {
+						"name": "var",
+						"value": "unitsToSave"
+					}, {
+						"name": "value",
+						"value": "nota_yeenya_ai.InitUnitsQuery(unitsToSave)"
+					}, {
+						"name": "scriptName",
+						"value": "store"
+					} ],
+					"scriptName": "store"
+				} ],
+				"id": "hG09JqOabJEKBVUCj0nQnu0yaHMiAtfW",
+				"nodeType": "sequence",
+				"parameters": []
+			} ],
+			"id": "4ZGf66iKKYbHUSfwuSpIzwTgJc6aX9OM",
+			"nodeType": "parallel",
+			"parameters": [ {
+				"name": "mode",
+				"value": "all-success"
+			} ]
+		}, {
+			"children": [ {
+				"children": [ {
+					"children": [ {
+						"children": [],
+						"id": "pW2Pm5lpQOQXlnnUL4c8vUnU3hFGonpY",
+						"nodeType": "luaCommand",
+						"parameters": [ {
+							"name": "var",
+							"value": "missionInfo"
+						}, {
+							"name": "value",
+							"value": "core.MissionInfo()"
+						}, {
+							"name": "scriptName",
+							"value": "store"
+						} ],
+						"scriptName": "store"
+					}, {
+						"children": [ {
+							"children": [],
+							"id": "zXKXS5jndcIvik3UgYtCQQzjwyWk1eV4",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "scriptName",
+								"value": "nota_common.manualMissionEnd"
+							} ],
+							"scriptName": "nota_common.manualMissionEnd"
+						} ],
+						"id": "zdXMjLCSQI2X45uH4JB7AxXtvAwrcKcn",
+						"nodeType": "luaCondition",
+						"parameters": [ {
+							"name": "expression",
+							"value": "missionInfo.score >= missionInfo.scoreMinimal"
+						}, {
+							"name": "repeat",
+							"value": "true"
+						} ]
+					} ],
+					"id": "7YQwsFMqd3oGTBaHZaRJLsf9vXzND2fj",
+					"nodeType": "sequence",
+					"parameters": []
+				} ],
+				"id": "2knjjjx5DoFrS3fDNmVHy8vODDMHWhCF",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [ {
+						"children": [ {
+							"children": [],
+							"id": "XDH6ZMjCO4XpHnZM5NFW3uD2hJU2s0Lq",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "atlas1"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(teamAtlases)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						}, {
+							"children": [],
+							"id": "1cnkTW2YRAwg6HkhYCNJEMmqY3pDdSxA",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "unitToSave1"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(unitsToSave)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "qJzFAkqcjx75WY0ZZmZxNjFjp1NaZefR",
+						"nodeType": "parallel",
+						"parameters": [ {
+							"name": "mode",
+							"value": "all-success"
+						} ]
+					}, {
+						"children": [ {
+							"children": [ {
+								"children": [],
+								"id": "nWsfwh4wbaIZBoNvsC4euhrl4ncri4U4",
+								"nodeType": "reference",
+								"parameters": [ {
+									"name": "behaviourName",
+									"value": "nota_fileho_ttdr.rescueUnit"
+								} ],
+								"referenceInputs": [ {
+									"name": "atlas",
+									"value": "atlas1"
+								}, {
+									"name": "unit",
+									"value": "unitToSave1"
+								}, {
+									"name": "area",
+									"value": "safeArea"
+								} ],
+								"referenceOutputs": []
+							}, {
+								"children": [],
+								"id": "ZM0TeFXRFYxGpdda2au4X7sBxAsC894C",
+								"nodeType": "luaCommand",
+								"parameters": [ {
+									"name": "var",
+									"value": "teamAtlases[atlas1]"
+								}, {
+									"name": "value",
+									"value": "0"
+								}, {
+									"name": "scriptName",
+									"value": "store"
+								} ],
+								"scriptName": "store"
+							} ],
+							"id": "HmAd7jMze38MP2Vvnvv7GEEAp1GINSpC",
+							"nodeType": "sequence",
+							"parameters": []
+						}, {
+							"children": [],
+							"id": "NYJBJekdH8BV0BYZ4r3CvpyqGo1tWdov",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "temp"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.UpdateUnitsQuery(unitsToSave, unitToSave1)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "t4o1Ob5e7BQbM4ODR9P68YDq5pYSj75p",
+						"nodeType": "selector",
+						"parameters": [ {
+							"name": "active",
+							"value": "true"
+						} ]
+					} ],
+					"id": "EsXuyEoTaxGGtZe0g9Jb4FONbNKIth1v",
+					"nodeType": "sequence",
+					"parameters": []
+				} ],
+				"id": "5Q843C2NQnw59Otsf9AnA3xkIghzeB2z",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [ {
+						"children": [ {
+							"children": [],
+							"id": "eob1qji6NHKzRcz27Zznvbr4vPJNCsrj",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "atlas2"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(teamAtlases)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						}, {
+							"children": [],
+							"id": "z6LZ7xLEEKdXCtAkXC7o2VHIXXt0PzVX",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "unitToSave2"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(unitsToSave)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "zhBwZSP2b1BntiCxYVusdtdtA1m0WqRl",
+						"nodeType": "parallel",
+						"parameters": [ {
+							"name": "mode",
+							"value": "all-success"
+						} ]
+					}, {
+						"children": [ {
+							"children": [ {
+								"children": [],
+								"id": "RsqVPu0B7W7Zma3xMcq3HBteMiSiv6iz",
+								"nodeType": "reference",
+								"parameters": [ {
+									"name": "behaviourName",
+									"value": "nota_fileho_ttdr.rescueUnit"
+								} ],
+								"referenceInputs": [ {
+									"name": "atlas",
+									"value": "atlas2"
+								}, {
+									"name": "unit",
+									"value": "unitToSave2"
+								}, {
+									"name": "area",
+									"value": "safeArea"
+								} ],
+								"referenceOutputs": []
+							}, {
+								"children": [],
+								"id": "5uzjQf0GKPzujsE3TFJhgkQuvo3eqGJo",
+								"nodeType": "luaCommand",
+								"parameters": [ {
+									"name": "var",
+									"value": "teamAtlases[atlas2]"
+								}, {
+									"name": "value",
+									"value": "0"
+								}, {
+									"name": "scriptName",
+									"value": "store"
+								} ],
+								"scriptName": "store"
+							} ],
+							"id": "rpkXPBHZuUl1hnNbi1xFkwRpPA0CzSv9",
+							"nodeType": "sequence",
+							"parameters": []
+						}, {
+							"children": [],
+							"id": "xoGnwREaGbqFTb8T7m900eUaXTqFrUQd",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "temp"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.UpdateUnitsQuery(unitsToSave, unitToSave2)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "XVVnQVMMb94dj635b0jhECyDU9AlRoCZ",
+						"nodeType": "selector",
+						"parameters": [ {
+							"name": "active",
+							"value": "true"
+						} ]
+					} ],
+					"id": "kwQh5I4QEdV5GrGgxfzIWVBea2yzoh8O",
+					"nodeType": "sequence",
+					"parameters": []
+				} ],
+				"id": "NTJIjb42YUJs2qYqzIMUGYz39Jxs9T6Q",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [ {
+						"children": [ {
+							"children": [],
+							"id": "HI4rHcgPccqZZ7nbWW2qUWqrTYbBwsgq",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "atlas3"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(teamAtlases)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						}, {
+							"children": [],
+							"id": "CJ24XhZwxiaPjb0qm8dLU1LF6wcgqw0e",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "unitToSave3"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(unitsToSave)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "oz2gbOQhOIYbAWDBd50cBci8HKAR6uFI",
+						"nodeType": "parallel",
+						"parameters": [ {
+							"name": "mode",
+							"value": "all-success"
+						} ]
+					}, {
+						"children": [ {
+							"children": [ {
+								"children": [],
+								"id": "aPYZVWkpuKrCWWU9bMpefu0WynssHNW0",
+								"nodeType": "reference",
+								"parameters": [ {
+									"name": "behaviourName",
+									"value": "nota_fileho_ttdr.rescueUnit"
+								} ],
+								"referenceInputs": [ {
+									"name": "atlas",
+									"value": "atlas3"
+								}, {
+									"name": "unit",
+									"value": "unitToSave3"
+								}, {
+									"name": "area",
+									"value": "safeArea"
+								} ],
+								"referenceOutputs": []
+							}, {
+								"children": [],
+								"id": "mpHHJM6DnacjySWnhn6VDQf9Ttl9c4Ud",
+								"nodeType": "luaCommand",
+								"parameters": [ {
+									"name": "var",
+									"value": "teamAtlases[atlas3]"
+								}, {
+									"name": "value",
+									"value": "0"
+								}, {
+									"name": "scriptName",
+									"value": "store"
+								} ],
+								"scriptName": "store"
+							} ],
+							"id": "Pu7DqSeNjp6Fz6fwgtyLKELrp5JDgjZ8",
+							"nodeType": "sequence",
+							"parameters": []
+						}, {
+							"children": [],
+							"id": "cwnKXc092C5OCMCgOhhADfFlQnAietbw",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "temp"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.UpdateUnitsQuery(unitsToSave, unitToSave3)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "itWTuqPospqkHYFo2l9KOMVbjFuGu75q",
+						"nodeType": "selector",
+						"parameters": [ {
+							"name": "active",
+							"value": "true"
+						} ]
+					} ],
+					"id": "7fomZQu6MbdZA5lQiodlY4c2FC83vcsM",
+					"nodeType": "sequence",
+					"parameters": []
+				} ],
+				"id": "lCJ3VGeIv4dSoyBjYlcTe8zy2L8DdPyd",
+				"nodeType": "repeat",
+				"parameters": []
+			}, {
+				"children": [ {
+					"children": [ {
+						"children": [ {
+							"children": [],
+							"id": "Ufotqo7eYtsnnn4nCOClqWXdNzC3rxU1",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "atlas4"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(teamAtlases)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						}, {
+							"children": [],
+							"id": "ToEJcjNA86rLlVzKAvxuC1uAXPG6keTW",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "unitToSave4"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.PickUnit(unitsToSave)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "wKfodNTIjHegFjgTSSEQMHiqZRQt4zlx",
+						"nodeType": "parallel",
+						"parameters": [ {
+							"name": "mode",
+							"value": "all-success"
+						} ]
+					}, {
+						"children": [ {
+							"children": [ {
+								"children": [],
+								"id": "Ve0qYaLZkiGGKa2mZFerH1FHO786f3bQ",
+								"nodeType": "reference",
+								"parameters": [ {
+									"name": "behaviourName",
+									"value": "nota_fileho_ttdr.rescueUnit"
+								} ],
+								"referenceInputs": [ {
+									"name": "atlas",
+									"value": "atlas4"
+								}, {
+									"name": "unit",
+									"value": "unitToSave4"
+								}, {
+									"name": "area",
+									"value": "safeArea"
+								} ],
+								"referenceOutputs": []
+							}, {
+								"children": [],
+								"id": "Aohtvzka5mWTFUq4wx1F2BzWIbAHyAOm",
+								"nodeType": "luaCommand",
+								"parameters": [ {
+									"name": "var",
+									"value": "teamAtlases[atlas4]"
+								}, {
+									"name": "value",
+									"value": "0"
+								}, {
+									"name": "scriptName",
+									"value": "store"
+								} ],
+								"scriptName": "store"
+							} ],
+							"id": "h2icijDo1pNgNBY5PuL17gQRlhdX1v0c",
+							"nodeType": "sequence",
+							"parameters": []
+						}, {
+							"children": [],
+							"id": "qYl8vlYoEB5kI3DkS1GsrqrIVJTiLUPF",
+							"nodeType": "luaCommand",
+							"parameters": [ {
+								"name": "var",
+								"value": "temp"
+							}, {
+								"name": "value",
+								"value": "nota_yeenya_ai.UpdateUnitsQuery(unitsToSave, unitToSave4)"
+							}, {
+								"name": "scriptName",
+								"value": "store"
+							} ],
+							"scriptName": "store"
+						} ],
+						"id": "sz7uZce87FfWCQp9mJp7E2QvzHzVeW0x",
+						"nodeType": "selector",
+						"parameters": [ {
+							"name": "active",
+							"value": "true"
+						} ]
+					} ],
+					"id": "OGPVjU3ZWoGSDigEA02HNNOomclTTwmm",
+					"nodeType": "sequence",
+					"parameters": []
+				} ],
+				"id": "MaRqE80EM8O8VowS97Pk9BfdnWF3jqBB",
+				"nodeType": "repeat",
+				"parameters": []
+			} ],
+			"id": "wXr8A9yHT6Qv2Uqt8BU0uMdSW3IDb14s",
+			"nodeType": "parallel",
+			"parameters": [ {
+				"name": "mode",
+				"value": "all-success"
+			} ]
+		} ],
+		"id": "LeMFCOccLCk95ynrEsm9lL2iyb0igaAI",
+		"nodeType": "sequence",
+		"parameters": []
+	}
+}

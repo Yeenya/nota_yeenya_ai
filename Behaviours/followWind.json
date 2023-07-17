@@ -13,62 +13,99 @@
 			"height": 90,
 			"title": "Common.relativeMove",
 			"width": 335,
-			"x": 531,
-			"y": -1
+			"x": 677,
+			"y": -6
+		},
+		"I8cNbbSAW8lhxYbWgwnL6bjdO9eFG0wZ": {
+			"height": 72,
+			"title": "waitUntil",
+			"width": 150,
+			"x": 444,
+			"y": 124
 		},
 		"Klexf5KAZnLH8SlKjspb1m2LDjoi9olD": {
 			"height": 60,
 			"title": "sequence",
 			"width": 143,
-			"x": 257,
+			"x": 458,
 			"y": 10
+		},
+		"UvdaPgYusd71nIjFAhi9sxedT2a3qaRg": {
+			"height": 70,
+			"title": "roleSplit",
+			"width": 202,
+			"x": 206,
+			"y": 6
 		},
 		"shxBiVlCluDgzrDz5iDBxbxjCST6tlcu": {
 			"height": 94,
 			"title": "store",
 			"width": 331,
-			"x": 532,
-			"y": -109
+			"x": 681,
+			"y": -114
 		}
 	},
 	"roles": [ {
 		"categories": [ "nota_yeenya_ai.commander" ],
 		"name": "commander"
+	}, {
+		"categories": [],
+		"name": "Role 2"
 	} ],
 	"root": {
 		"children": [ {
-			"children": [],
-			"id": "shxBiVlCluDgzrDz5iDBxbxjCST6tlcu",
-			"nodeType": "luaCommand",
-			"parameters": [ {
-				"name": "var",
-				"value": "windDir"
+			"children": [ {
+				"children": [],
+				"id": "shxBiVlCluDgzrDz5iDBxbxjCST6tlcu",
+				"nodeType": "luaCommand",
+				"parameters": [ {
+					"name": "var",
+					"value": "windDir"
+				}, {
+					"name": "value",
+					"value": "nota_yeenya_ai.Wind()"
+				}, {
+					"name": "scriptName",
+					"value": "store"
+				} ],
+				"scriptName": "store"
 			}, {
-				"name": "value",
-				"value": "nota_yeenya_ai.Wind()"
-			}, {
-				"name": "scriptName",
-				"value": "store"
+				"children": [],
+				"id": "7Ek9yOPijLjobqj7IWBd7ZEaJz5VBmYf",
+				"nodeType": "luaCommand",
+				"parameters": [ {
+					"name": "dist",
+					"value": "{x = windDir.x * 50, z = windDir.z * 50}"
+				}, {
+					"name": "fight",
+					"value": "false"
+				}, {
+					"name": "scriptName",
+					"value": "Common.relativeMove"
+				} ],
+				"scriptName": "Common.relativeMove"
 			} ],
-			"scriptName": "store"
+			"id": "Klexf5KAZnLH8SlKjspb1m2LDjoi9olD",
+			"nodeType": "sequence",
+			"parameters": []
 		}, {
 			"children": [],
-			"id": "7Ek9yOPijLjobqj7IWBd7ZEaJz5VBmYf",
+			"id": "I8cNbbSAW8lhxYbWgwnL6bjdO9eFG0wZ",
 			"nodeType": "luaCommand",
 			"parameters": [ {
-				"name": "dist",
-				"value": "{x = windDir.x * 5, z = windDir.z * 5}"
-			}, {
-				"name": "fight",
+				"name": "condition",
 				"value": "false"
 			}, {
 				"name": "scriptName",
-				"value": "Common.relativeMove"
+				"value": "waitUntil"
 			} ],
-			"scriptName": "Common.relativeMove"
+			"scriptName": "waitUntil"
 		} ],
-		"id": "Klexf5KAZnLH8SlKjspb1m2LDjoi9olD",
-		"nodeType": "sequence",
-		"parameters": []
+		"id": "UvdaPgYusd71nIjFAhi9sxedT2a3qaRg",
+		"nodeType": "roleSplit",
+		"parameters": [ {
+			"name": "mode",
+			"value": "all-success"
+		} ]
 	}
 }
